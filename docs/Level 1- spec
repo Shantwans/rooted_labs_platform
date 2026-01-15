@@ -1,0 +1,23 @@
+## Level 1 Specification
+
+Grade: 1  
+World: Sensing  
+Big Idea: Machines sense the world using inputs, not understanding.
+
+### Assets
+- Story (multi-format, multi-language)
+- Concept video
+- HTML interactive game
+- Worksheets (PDF)
+- Teacher guide
+
+### Unlock Logic (School Mode)
+IF facilitator_confirmation = true
+AND game_completed = true
+THEN level_status = completed
+
+### Unlock Logic (Home Mode)
+IF min_time_spent >= threshold
+AND reflection_completed = true
+AND game_completed = true
+THEN level_status = completed
