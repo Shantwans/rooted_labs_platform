@@ -1,5 +1,12 @@
-Progress
+Progress:
 - user_id
 - level_id
-- step_completion
-- facilitator_confirmation
+- digital_done (boolean)
+- sense_done (boolean)
+- thinking_score (number)
+- thinker_done (boolean)
+
+Logic:
+- digital_done → Digital Explorer badge
+- sense_done → Sense Maker badge
+- thinking_score ≥ threshold → Thinker badge
