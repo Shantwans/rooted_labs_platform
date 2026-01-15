@@ -1,19 +1,58 @@
 ## Learning Modes
 
-Rooted Labs operates under three modes:
+Rooted Labs operates using a **parallel learning model**, not a gated one.
+
+Learning happens on two tracks:
+- Digital Learning (self-paced, student-led)
+- Sense-Making (human-facilitated, non-blocking)
+
+Access to digital content is never restricted by mode.
+Modes only affect **recognition and validation**, not access.
+
+---
 
 ### 1. School Mode (B2B)
-- Teacher controls progression
-- Discussion and unplugged activities are mandatory
-- Levels unlock only after teacher confirmation
+
+- Students access all digital content freely
+- Teachers facilitate discussion and unplugged activities
+- Teachers confirm completion of sense-making
+- Teacher actions do NOT unlock or block digital steps
+
+In School Mode:
+- Digital Explorer and Thinker badges are earned by students independently
+- Sense Maker badge is confirmed by the teacher
+- Level completion may require all badges, depending on school policy
+
+---
 
 ### 2. Home Mode (B2C)
-- System controls progression
-- Rule-based unlocks (time, completion, reflection)
+
+- Students access all digital content freely
 - No teacher dependency
+- System rules handle recognition:
+  - digital completion
+  - visual thinking quiz score
+
+In Home Mode:
+- Digital Explorer and Thinker badges are system-awarded
+- Sense Maker badge may be skipped or parent-supported
+- Learning progression remains uninterrupted
+
+---
 
 ### 3. AI Mode (Future)
-- AI adapts pacing and hints
-- Built using data from Modes 1 & 2
 
-⚠️ Mode changes do NOT change content or structure.
+- AI augments recognition and support, not access
+- AI analyses:
+  - digital interaction patterns
+  - visual thinking responses
+  - sense-making confirmations
+
+AI does NOT replace the learning structure.
+It only enhances feedback and personalisation.
+
+---
+
+⚠️ Mode changes do NOT change content or level structure.
+Only the **controller of validation** changes.
+
