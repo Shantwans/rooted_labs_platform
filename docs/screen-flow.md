@@ -1,18 +1,21 @@
 ## Screen Flow
 
 ### Student Screens
-1. Dashboard (levels locked)
-2. Story Viewer
-3. Concept Video
-4. Pause Screen (blocked)
-5. Game Screen (unlocked by facilitator)
-6. Reflection Screen
-7. Completion Screen
+Student Flow:
+
+- Access story, video, and game freely
+- Complete digital reflection
+- Attempt visual thinking quiz
+- Earn Digital Explorer and Thinker badges based on completion and score
+
 
 ### Teacher Screens
-1. Class Dashboard
-2. Level Facilitation Panel
-3. Confirmation Action
+Teacher Flow:
+
+- View student digital completion status
+- Facilitate discussion and unplugged activity
+- Confirm Sense Maker badge
+
 
 ### Admin Screens
 1. Content Upload
